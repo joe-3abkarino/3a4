@@ -1,0 +1,6 @@
+#include<iostream.h>
+//this program prints "hello goe"
+{
+cout<<hello world.\n;
+}
+return 0;
