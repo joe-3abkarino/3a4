@@ -1,5 +1,6 @@
 #include<iostream.h>
 //this program prints "hello goe"
+main()
 {
 cout<<hello world.\n;
 }
